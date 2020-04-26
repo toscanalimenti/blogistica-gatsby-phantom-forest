@@ -1,5 +1,6 @@
-copyright: '&copy; Phantom. All rights reserved.'
+---
+copyright: "&copy; Phantom. All rights reserved."
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+- text: Web design by Promovis
+  url: https://www.promovis.ro
+  new_window: true
